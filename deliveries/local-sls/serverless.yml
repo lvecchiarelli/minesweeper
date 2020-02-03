@@ -1,0 +1,20 @@
+service:
+  name: minesweeper-service
+
+provider:
+  name: aws
+  runtime: nodejs12.x
+  stage: dev
+  region: us-east-1
+
+functions:
+  newGame:
+    handler: deliveries/local-sls/new-game.handler
+  newGame_test:
+    handler: deliveries/local-sls/new-game.test
+  saveGame:
+    handler: deliveries/local-sls/save-game.handler
+  saveGame_test:
+    handler: deliveries/local-sls/save-game.test
+  loadGame:
+    handler: deliveries/local-sls/load-game.handler

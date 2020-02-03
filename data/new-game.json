@@ -1,0 +1,502 @@
+{
+    "ok": true,
+    "game": {
+        "repository": {
+            "id": 0
+        },
+        "game": {
+            "id": 0,
+            "size": 9,
+            "mines": 10,
+            "board": [
+                {
+                    "isMine": false,
+                    "isFlagged": false,
+                    "isRevealed": false,
+                    "minesCount": 1
+                },
+                {
+                    "isMine": true,
+                    "isFlagged": false,
+                    "isRevealed": false,
+                    "minesCount": 0
+                },
+                {
+                    "isMine": false,
+                    "isFlagged": false,
+                    "isRevealed": false,
+                    "minesCount": 1
+                },
+                {
+                    "isMine": false,
+                    "isFlagged": false,
+                    "isRevealed": false,
+                    "minesCount": 0
+                },
+                {
+                    "isMine": false,
+                    "isFlagged": false,
+                    "isRevealed": false,
+                    "minesCount": 0
+                },
+                {
+                    "isMine": false,
+                    "isFlagged": false,
+                    "isRevealed": false,
+                    "minesCount": 0
+                },
+                {
+                    "isMine": false,
+                    "isFlagged": false,
+                    "isRevealed": false,
+                    "minesCount": 0
+                },
+                {
+                    "isMine": false,
+                    "isFlagged": false,
+                    "isRevealed": false,
+                    "minesCount": 0
+                },
+                {
+                    "isMine": false,
+                    "isFlagged": false,
+                    "isRevealed": false,
+                    "minesCount": 1
+                },
+                {
+                    "isMine": false,
+                    "isFlagged": false,
+                    "isRevealed": false,
+                    "minesCount": 0
+                },
+                {
+                    "isMine": false,
+                    "isFlagged": false,
+                    "isRevealed": false,
+                    "minesCount": 0
+                },
+                {
+                    "isMine": false,
+                    "isFlagged": false,
+                    "isRevealed": false,
+                    "minesCount": 0
+                },
+                {
+                    "isMine": false,
+                    "isFlagged": false,
+                    "isRevealed": false,
+                    "minesCount": 0
+                },
+                {
+                    "isMine": false,
+                    "isFlagged": false,
+                    "isRevealed": false,
+                    "minesCount": 0
+                },
+                {
+                    "isMine": false,
+                    "isFlagged": false,
+                    "isRevealed": false,
+                    "minesCount": 0
+                },
+                {
+                    "isMine": false,
+                    "isFlagged": false,
+                    "isRevealed": false,
+                    "minesCount": 0
+                },
+                {
+                    "isMine": false,
+                    "isFlagged": false,
+                    "isRevealed": false,
+                    "minesCount": 1
+                },
+                {
+                    "isMine": false,
+                    "isFlagged": false,
+                    "isRevealed": false,
+                    "minesCount": 3
+                },
+                {
+                    "isMine": true,
+                    "isFlagged": false,
+                    "isRevealed": false,
+                    "minesCount": 0
+                },
+                {
+                    "isMine": false,
+                    "isFlagged": false,
+                    "isRevealed": false,
+                    "minesCount": 1
+                },
+                {
+                    "isMine": false,
+                    "isFlagged": false,
+                    "isRevealed": false,
+                    "minesCount": 0
+                },
+                {
+                    "isMine": false,
+                    "isFlagged": false,
+                    "isRevealed": false,
+                    "minesCount": 0
+                },
+                {
+                    "isMine": false,
+                    "isFlagged": false,
+                    "isRevealed": false,
+                    "minesCount": 0
+                },
+                {
+                    "isMine": false,
+                    "isFlagged": false,
+                    "isRevealed": false,
+                    "minesCount": 0
+                },
+                {
+                    "isMine": false,
+                    "isFlagged": false,
+                    "isRevealed": false,
+                    "minesCount": 1
+                },
+                {
+                    "isMine": false,
+                    "isFlagged": false,
+                    "isRevealed": false,
+                    "minesCount": 2
+                },
+                {
+                    "isMine": false,
+                    "isFlagged": false,
+                    "isRevealed": false,
+                    "minesCount": 2
+                },
+                {
+                    "isMine": false,
+                    "isFlagged": false,
+                    "isRevealed": false,
+                    "minesCount": 1
+                },
+                {
+                    "isMine": true,
+                    "isFlagged": false,
+                    "isRevealed": false,
+                    "minesCount": 0
+                },
+                {
+                    "isMine": false,
+                    "isFlagged": false,
+                    "isRevealed": false,
+                    "minesCount": 1
+                },
+                {
+                    "isMine": false,
+                    "isFlagged": false,
+                    "isRevealed": false,
+                    "minesCount": 0
+                },
+                {
+                    "isMine": false,
+                    "isFlagged": false,
+                    "isRevealed": false,
+                    "minesCount": 0
+                },
+                {
+                    "isMine": false,
+                    "isFlagged": false,
+                    "isRevealed": false,
+                    "minesCount": 1
+                },
+                {
+                    "isMine": false,
+                    "isFlagged": false,
+                    "isRevealed": false,
+                    "minesCount": 2
+                },
+                {
+                    "isMine": false,
+                    "isFlagged": false,
+                    "isRevealed": false,
+                    "minesCount": 2
+                },
+                {
+                    "isMine": false,
+                    "isFlagged": false,
+                    "isRevealed": false,
+                    "minesCount": 1
+                },
+                {
+                    "isMine": false,
+                    "isFlagged": false,
+                    "isRevealed": false,
+                    "minesCount": 0
+                },
+                {
+                    "isMine": false,
+                    "isFlagged": false,
+                    "isRevealed": false,
+                    "minesCount": 0
+                },
+                {
+                    "isMine": false,
+                    "isFlagged": false,
+                    "isRevealed": false,
+                    "minesCount": 0
+                },
+                {
+                    "isMine": false,
+                    "isFlagged": false,
+                    "isRevealed": false,
+                    "minesCount": 0
+                },
+                {
+                    "isMine": false,
+                    "isFlagged": false,
+                    "isRevealed": false,
+                    "minesCount": 1
+                },
+                {
+                    "isMine": false,
+                    "isFlagged": false,
+                    "isRevealed": false,
+                    "minesCount": 2
+                },
+                {
+                    "isMine": false,
+                    "isFlagged": false,
+                    "isRevealed": false,
+                    "minesCount": 2
+                },
+                {
+                    "isMine": false,
+                    "isFlagged": false,
+                    "isRevealed": false,
+                    "minesCount": 2
+                },
+                {
+                    "isMine": true,
+                    "isFlagged": false,
+                    "isRevealed": false,
+                    "minesCount": 0
+                },
+                {
+                    "isMine": false,
+                    "isFlagged": false,
+                    "isRevealed": false,
+                    "minesCount": 2
+                },
+                {
+                    "isMine": true,
+                    "isFlagged": false,
+                    "isRevealed": false,
+                    "minesCount": 1
+                },
+                {
+                    "isMine": true,
+                    "isFlagged": false,
+                    "isRevealed": false,
+                    "minesCount": 1
+                },
+                {
+                    "isMine": false,
+                    "isFlagged": false,
+                    "isRevealed": false,
+                    "minesCount": 2
+                },
+                {
+                    "isMine": false,
+                    "isFlagged": false,
+                    "isRevealed": false,
+                    "minesCount": 2
+                },
+                {
+                    "isMine": false,
+                    "isFlagged": false,
+                    "isRevealed": false,
+                    "minesCount": 2
+                },
+                {
+                    "isMine": false,
+                    "isFlagged": false,
+                    "isRevealed": false,
+                    "minesCount": 1
+                },
+                {
+                    "isMine": false,
+                    "isFlagged": false,
+                    "isRevealed": false,
+                    "minesCount": 0
+                },
+                {
+                    "isMine": false,
+                    "isFlagged": false,
+                    "isRevealed": false,
+                    "minesCount": 0
+                },
+                {
+                    "isMine": false,
+                    "isFlagged": false,
+                    "isRevealed": false,
+                    "minesCount": 0
+                },
+                {
+                    "isMine": false,
+                    "isFlagged": false,
+                    "isRevealed": false,
+                    "minesCount": 0
+                },
+                {
+                    "isMine": false,
+                    "isFlagged": false,
+                    "isRevealed": false,
+                    "minesCount": 1
+                },
+                {
+                    "isMine": false,
+                    "isFlagged": false,
+                    "isRevealed": false,
+                    "minesCount": 2
+                },
+                {
+                    "isMine": false,
+                    "isFlagged": false,
+                    "isRevealed": false,
+                    "minesCount": 2
+                },
+                {
+                    "isMine": false,
+                    "isFlagged": false,
+                    "isRevealed": false,
+                    "minesCount": 1
+                },
+                {
+                    "isMine": false,
+                    "isFlagged": false,
+                    "isRevealed": false,
+                    "minesCount": 0
+                },
+                {
+                    "isMine": false,
+                    "isFlagged": false,
+                    "isRevealed": false,
+                    "minesCount": 0
+                },
+                {
+                    "isMine": false,
+                    "isFlagged": false,
+                    "isRevealed": false,
+                    "minesCount": 1
+                },
+                {
+                    "isMine": true,
+                    "isFlagged": false,
+                    "isRevealed": false,
+                    "minesCount": 0
+                },
+                {
+                    "isMine": false,
+                    "isFlagged": false,
+                    "isRevealed": false,
+                    "minesCount": 2
+                },
+                {
+                    "isMine": false,
+                    "isFlagged": false,
+                    "isRevealed": false,
+                    "minesCount": 2
+                },
+                {
+                    "isMine": false,
+                    "isFlagged": false,
+                    "isRevealed": false,
+                    "minesCount": 3
+                },
+                {
+                    "isMine": true,
+                    "isFlagged": false,
+                    "isRevealed": false,
+                    "minesCount": 1
+                },
+                {
+                    "isMine": false,
+                    "isFlagged": false,
+                    "isRevealed": false,
+                    "minesCount": 1
+                },
+                {
+                    "isMine": false,
+                    "isFlagged": false,
+                    "isRevealed": false,
+                    "minesCount": 0
+                },
+                {
+                    "isMine": false,
+                    "isFlagged": false,
+                    "isRevealed": false,
+                    "minesCount": 0
+                },
+                {
+                    "isMine": false,
+                    "isFlagged": false,
+                    "isRevealed": false,
+                    "minesCount": 0
+                },
+                {
+                    "isMine": false,
+                    "isFlagged": false,
+                    "isRevealed": false,
+                    "minesCount": 2
+                },
+                {
+                    "isMine": true,
+                    "isFlagged": false,
+                    "isRevealed": false,
+                    "minesCount": 2
+                },
+                {
+                    "isMine": false,
+                    "isFlagged": false,
+                    "isRevealed": false,
+                    "minesCount": 3
+                },
+                {
+                    "isMine": false,
+                    "isFlagged": false,
+                    "isRevealed": false,
+                    "minesCount": 1
+                },
+                {
+                    "isMine": false,
+                    "isFlagged": false,
+                    "isRevealed": false,
+                    "minesCount": 0
+                },
+                {
+                    "isMine": false,
+                    "isFlagged": false,
+                    "isRevealed": false,
+                    "minesCount": 0
+                },
+                {
+                    "isMine": false,
+                    "isFlagged": false,
+                    "isRevealed": false,
+                    "minesCount": 1
+                },
+                {
+                    "isMine": true,
+                    "isFlagged": false,
+                    "isRevealed": false,
+                    "minesCount": 0
+                },
+                {
+                    "isMine": false,
+                    "isFlagged": false,
+                    "isRevealed": false,
+                    "minesCount": 1
+                }
+            ]
+        }
+    },
+    "minesLeft": 10
+}
