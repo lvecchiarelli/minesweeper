@@ -7,9 +7,6 @@ custom:
       localDir: web # required 
       acl: public-read # optional 
 
-#export AWS_ACCESS_KEY_ID=AKIAXHXX3OSMYRH7G3N6
-#export AWS_SECRET_ACCESS_KEY=RB5vjIz/jg7o+OhugqPMb4QUZR3g870qMdws/pIO
-
 # Welcome to Serverless!
 #
 # This file is the main config file for your service.
