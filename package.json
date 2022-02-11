@@ -163,7 +163,7 @@
     "p-try": "2.2.0",
     "path-exists": "3.0.0",
     "path-is-absolute": "1.0.1",
-    "pathval": "1.1.0",
+    "pathval": "1.1.1",
     "pend": "^1.2.0",
     "picomatch": "2.2.1",
     "private": "0.1.8",
